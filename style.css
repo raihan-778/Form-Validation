@@ -87,7 +87,7 @@ h2 {
 .form-control.error small {
     visibility: visible;
     font-weight: 500;
-    font-size:12px
+    font-size:12px;
 }
 
 .form button {
